@@ -1,5 +1,11 @@
 # ARTICLE
-你好, 世界. $$\sqrt{123}$$.
+你好, 世界.
+
+<p>
+<center>
+$${\displaystyle \int _{-\infty }^{\infty }e^{-x^{2}}\,dx={\sqrt {\pi }}.}$$
+</center>
+</p>
 
 ```python
 def f(x):

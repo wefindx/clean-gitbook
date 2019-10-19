@@ -1,6 +1,7 @@
 .grunt
 
 node_modules
+search_index.json
 
 # Book build output
 _book
