@@ -1,3 +1,5 @@
+# initially, do: git branch -b gh pages
+
 # install the plugins and build the static site
 gitbook install && gitbook build
 
